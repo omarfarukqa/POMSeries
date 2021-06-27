@@ -1,0 +1,838 @@
+22 Jun 2021 12:31:45,343 TestNG-tests-1 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+22 Jun 2021 12:31:45,345 TestNG-tests-1 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+22 Jun 2021 12:31:45,347 TestNG-tests-1 - TemplateLoader.findTemplateSource("index.ftl"): Found
+22 Jun 2021 12:31:45,347 TestNG-tests-1 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+22 Jun 2021 12:31:45,614 TestNG-tests-1 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+22 Jun 2021 12:31:45,615 TestNG-tests-1 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+22 Jun 2021 12:31:45,615 TestNG-tests-1 - TemplateLoader.findTemplateSource("head.ftl"): Found
+22 Jun 2021 12:31:45,615 TestNG-tests-1 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+22 Jun 2021 12:31:45,620 TestNG-tests-1 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+22 Jun 2021 12:31:45,621 TestNG-tests-1 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+22 Jun 2021 12:31:45,621 TestNG-tests-1 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+22 Jun 2021 12:31:45,621 TestNG-tests-1 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+22 Jun 2021 12:31:45,650 TestNG-tests-1 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+22 Jun 2021 12:31:45,651 TestNG-tests-1 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+22 Jun 2021 12:31:45,651 TestNG-tests-1 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+22 Jun 2021 12:31:45,652 TestNG-tests-1 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+22 Jun 2021 12:31:45,687 TestNG-tests-1 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+22 Jun 2021 12:31:45,687 TestNG-tests-1 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+22 Jun 2021 12:31:45,687 TestNG-tests-1 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+22 Jun 2021 12:31:45,687 TestNG-tests-1 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+22 Jun 2021 12:31:45,721 TestNG-tests-1 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+22 Jun 2021 12:31:45,721 TestNG-tests-1 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+22 Jun 2021 12:31:45,722 TestNG-tests-1 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+22 Jun 2021 12:31:45,722 TestNG-tests-1 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+22 Jun 2021 12:31:45,755 TestNG-tests-1 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+22 Jun 2021 12:31:45,756 TestNG-tests-1 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+22 Jun 2021 12:31:45,759 TestNG-tests-1 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+22 Jun 2021 12:31:45,762 TestNG-tests-1 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+22 Jun 2021 12:31:45,762 TestNG-tests-1 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+22 Jun 2021 12:31:45,763 TestNG-tests-1 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+22 Jun 2021 12:31:45,765 TestNG-tests-1 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+22 Jun 2021 12:31:45,767 TestNG-tests-1 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+22 Jun 2021 12:31:45,767 TestNG-tests-1 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+22 Jun 2021 12:31:45,767 TestNG-tests-1 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+22 Jun 2021 12:31:45,767 TestNG-tests-1 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+22 Jun 2021 12:31:45,767 TestNG-tests-1 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+22 Jun 2021 12:31:45,767 TestNG-tests-1 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+22 Jun 2021 12:31:45,777 TestNG-tests-1 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+22 Jun 2021 12:31:45,783 TestNG-tests-1 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+22 Jun 2021 12:31:45,784 TestNG-tests-1 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+22 Jun 2021 12:31:45,784 TestNG-tests-1 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+22 Jun 2021 12:31:45,789 TestNG-tests-1 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+22 Jun 2021 12:31:45,789 TestNG-tests-1 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+22 Jun 2021 12:31:45,789 TestNG-tests-1 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+22 Jun 2021 12:31:45,789 TestNG-tests-1 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+22 Jun 2021 12:31:45,795 TestNG-tests-1 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+22 Jun 2021 12:31:45,795 TestNG-tests-1 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+22 Jun 2021 12:31:45,795 TestNG-tests-1 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+22 Jun 2021 12:31:45,796 TestNG-tests-1 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+22 Jun 2021 12:31:45,797 TestNG-tests-1 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+22 Jun 2021 12:31:45,797 TestNG-tests-1 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+22 Jun 2021 12:31:45,797 TestNG-tests-1 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+22 Jun 2021 12:31:45,797 TestNG-tests-1 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+22 Jun 2021 12:32:07,093 TestNG-tests-3 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+22 Jun 2021 12:32:07,093 TestNG-tests-3 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+22 Jun 2021 12:32:07,094 TestNG-tests-3 - TemplateLoader.findTemplateSource("index.ftl"): Found
+22 Jun 2021 12:32:07,094 TestNG-tests-3 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+22 Jun 2021 12:32:07,105 TestNG-tests-3 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+22 Jun 2021 12:32:07,106 TestNG-tests-3 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+22 Jun 2021 12:32:07,106 TestNG-tests-3 - TemplateLoader.findTemplateSource("head.ftl"): Found
+22 Jun 2021 12:32:07,106 TestNG-tests-3 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+22 Jun 2021 12:32:07,114 TestNG-tests-3 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+22 Jun 2021 12:32:07,116 TestNG-tests-3 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+22 Jun 2021 12:32:07,116 TestNG-tests-3 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+22 Jun 2021 12:32:07,116 TestNG-tests-3 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+22 Jun 2021 12:32:07,118 TestNG-tests-3 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+22 Jun 2021 12:32:07,123 TestNG-tests-3 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+22 Jun 2021 12:32:07,124 TestNG-tests-3 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+22 Jun 2021 12:32:07,124 TestNG-tests-3 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+22 Jun 2021 12:32:07,138 TestNG-tests-3 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+22 Jun 2021 12:32:07,139 TestNG-tests-3 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+22 Jun 2021 12:32:07,140 TestNG-tests-3 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+22 Jun 2021 12:32:07,140 TestNG-tests-3 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+22 Jun 2021 12:32:07,167 TestNG-tests-3 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+22 Jun 2021 12:32:07,168 TestNG-tests-3 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+22 Jun 2021 12:32:07,168 TestNG-tests-3 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+22 Jun 2021 12:32:07,168 TestNG-tests-3 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+22 Jun 2021 12:32:07,182 TestNG-tests-3 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+22 Jun 2021 12:32:07,186 TestNG-tests-3 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+22 Jun 2021 12:32:07,188 TestNG-tests-3 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+22 Jun 2021 12:32:07,189 TestNG-tests-3 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+22 Jun 2021 12:32:07,192 TestNG-tests-3 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+22 Jun 2021 12:32:07,199 TestNG-tests-3 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+22 Jun 2021 12:32:07,199 TestNG-tests-3 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+22 Jun 2021 12:32:07,205 TestNG-tests-3 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+22 Jun 2021 12:32:07,209 TestNG-tests-3 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+22 Jun 2021 12:32:07,209 TestNG-tests-3 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+22 Jun 2021 12:32:07,209 TestNG-tests-3 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+22 Jun 2021 12:32:07,215 TestNG-tests-3 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+22 Jun 2021 12:32:07,217 TestNG-tests-3 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+22 Jun 2021 12:32:07,218 TestNG-tests-3 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+22 Jun 2021 12:32:07,218 TestNG-tests-3 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+22 Jun 2021 12:32:07,218 TestNG-tests-3 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+22 Jun 2021 12:32:07,218 TestNG-tests-3 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+22 Jun 2021 12:32:07,223 TestNG-tests-3 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+22 Jun 2021 12:32:07,223 TestNG-tests-3 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+22 Jun 2021 12:32:07,224 TestNG-tests-3 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+22 Jun 2021 12:32:07,242 TestNG-tests-3 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+22 Jun 2021 12:32:07,242 TestNG-tests-3 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+22 Jun 2021 12:32:07,246 TestNG-tests-3 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+22 Jun 2021 12:32:07,246 TestNG-tests-3 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+22 Jun 2021 12:32:07,247 TestNG-tests-3 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+22 Jun 2021 12:32:07,247 TestNG-tests-3 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+22 Jun 2021 12:32:07,247 TestNG-tests-3 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+22 Jun 2021 12:32:07,247 TestNG-tests-3 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+22 Jun 2021 12:32:07,258 TestNG-tests-3 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+22 Jun 2021 12:32:07,259 TestNG-tests-3 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+22 Jun 2021 12:32:07,260 TestNG-tests-3 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+22 Jun 2021 12:32:07,260 TestNG-tests-3 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+22 Jun 2021 12:32:07,267 TestNG-tests-3 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+22 Jun 2021 12:32:07,267 TestNG-tests-3 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+22 Jun 2021 12:32:07,267 TestNG-tests-3 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+22 Jun 2021 12:32:07,267 TestNG-tests-3 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+22 Jun 2021 12:32:12,513 TestNG-tests-2 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+22 Jun 2021 12:32:12,514 TestNG-tests-2 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+22 Jun 2021 12:32:12,516 TestNG-tests-2 - TemplateLoader.findTemplateSource("index.ftl"): Found
+22 Jun 2021 12:32:12,516 TestNG-tests-2 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+22 Jun 2021 12:32:12,536 TestNG-tests-2 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+22 Jun 2021 12:32:12,541 TestNG-tests-2 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+22 Jun 2021 12:32:12,545 TestNG-tests-2 - TemplateLoader.findTemplateSource("head.ftl"): Found
+22 Jun 2021 12:32:12,546 TestNG-tests-2 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+22 Jun 2021 12:32:12,554 TestNG-tests-2 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+22 Jun 2021 12:32:12,557 TestNG-tests-2 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+22 Jun 2021 12:32:12,559 TestNG-tests-2 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+22 Jun 2021 12:32:12,559 TestNG-tests-2 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+22 Jun 2021 12:32:12,568 TestNG-tests-2 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+22 Jun 2021 12:32:12,568 TestNG-tests-2 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+22 Jun 2021 12:32:12,568 TestNG-tests-2 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+22 Jun 2021 12:32:12,568 TestNG-tests-2 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+22 Jun 2021 12:32:12,592 TestNG-tests-2 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+22 Jun 2021 12:32:12,593 TestNG-tests-2 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+22 Jun 2021 12:32:12,593 TestNG-tests-2 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+22 Jun 2021 12:32:12,594 TestNG-tests-2 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+22 Jun 2021 12:32:12,605 TestNG-tests-2 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+22 Jun 2021 12:32:12,606 TestNG-tests-2 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+22 Jun 2021 12:32:12,606 TestNG-tests-2 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+22 Jun 2021 12:32:12,606 TestNG-tests-2 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+22 Jun 2021 12:32:12,623 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+22 Jun 2021 12:32:12,629 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+22 Jun 2021 12:32:12,631 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+22 Jun 2021 12:32:12,635 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+22 Jun 2021 12:32:12,635 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+22 Jun 2021 12:32:12,636 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+22 Jun 2021 12:32:12,637 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+22 Jun 2021 12:32:12,637 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+22 Jun 2021 12:32:12,637 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+22 Jun 2021 12:32:12,640 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+22 Jun 2021 12:32:12,641 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+22 Jun 2021 12:32:12,642 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+22 Jun 2021 12:32:12,644 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+22 Jun 2021 12:32:12,645 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+22 Jun 2021 12:32:12,646 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+22 Jun 2021 12:32:12,647 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+22 Jun 2021 12:32:12,647 TestNG-tests-2 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+22 Jun 2021 12:32:12,648 TestNG-tests-2 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+22 Jun 2021 12:32:12,649 TestNG-tests-2 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+22 Jun 2021 12:32:12,649 TestNG-tests-2 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+22 Jun 2021 12:32:12,663 TestNG-tests-2 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+22 Jun 2021 12:32:12,666 TestNG-tests-2 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+22 Jun 2021 12:32:12,668 TestNG-tests-2 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+22 Jun 2021 12:32:12,668 TestNG-tests-2 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+22 Jun 2021 12:32:12,677 TestNG-tests-2 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+22 Jun 2021 12:32:12,677 TestNG-tests-2 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+22 Jun 2021 12:32:12,680 TestNG-tests-2 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+22 Jun 2021 12:32:12,681 TestNG-tests-2 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+22 Jun 2021 12:32:12,687 TestNG-tests-2 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+22 Jun 2021 12:32:12,687 TestNG-tests-2 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+22 Jun 2021 12:32:12,689 TestNG-tests-2 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+22 Jun 2021 12:32:12,689 TestNG-tests-2 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+22 Jun 2021 12:32:12,695 TestNG-tests-2 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+22 Jun 2021 12:32:12,695 TestNG-tests-2 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+22 Jun 2021 12:32:12,695 TestNG-tests-2 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+22 Jun 2021 12:32:12,695 TestNG-tests-2 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+22 Jun 2021 12:32:55,255 TestNG-tests-4 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+22 Jun 2021 12:32:55,257 TestNG-tests-4 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+22 Jun 2021 12:32:55,257 TestNG-tests-4 - TemplateLoader.findTemplateSource("index.ftl"): Found
+22 Jun 2021 12:32:55,257 TestNG-tests-4 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+22 Jun 2021 12:32:55,269 TestNG-tests-4 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+22 Jun 2021 12:32:55,271 TestNG-tests-4 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+22 Jun 2021 12:32:55,272 TestNG-tests-4 - TemplateLoader.findTemplateSource("head.ftl"): Found
+22 Jun 2021 12:32:55,272 TestNG-tests-4 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+22 Jun 2021 12:32:55,277 TestNG-tests-4 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+22 Jun 2021 12:32:55,278 TestNG-tests-4 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+22 Jun 2021 12:32:55,278 TestNG-tests-4 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+22 Jun 2021 12:32:55,278 TestNG-tests-4 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+22 Jun 2021 12:32:55,278 TestNG-tests-4 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+22 Jun 2021 12:32:55,278 TestNG-tests-4 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+22 Jun 2021 12:32:55,287 TestNG-tests-4 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+22 Jun 2021 12:32:55,287 TestNG-tests-4 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+22 Jun 2021 12:32:55,290 TestNG-tests-4 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+22 Jun 2021 12:32:55,302 TestNG-tests-4 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+22 Jun 2021 12:32:55,302 TestNG-tests-4 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+22 Jun 2021 12:32:55,302 TestNG-tests-4 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+22 Jun 2021 12:32:55,312 TestNG-tests-4 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+22 Jun 2021 12:32:55,314 TestNG-tests-4 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+22 Jun 2021 12:32:55,315 TestNG-tests-4 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+22 Jun 2021 12:32:55,315 TestNG-tests-4 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+22 Jun 2021 12:32:55,330 TestNG-tests-4 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+22 Jun 2021 12:32:55,332 TestNG-tests-4 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+22 Jun 2021 12:32:55,332 TestNG-tests-4 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+22 Jun 2021 12:32:55,333 TestNG-tests-4 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+22 Jun 2021 12:32:55,333 TestNG-tests-4 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+22 Jun 2021 12:32:55,335 TestNG-tests-4 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+22 Jun 2021 12:32:55,336 TestNG-tests-4 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+22 Jun 2021 12:32:55,338 TestNG-tests-4 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+22 Jun 2021 12:32:55,340 TestNG-tests-4 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+22 Jun 2021 12:32:55,340 TestNG-tests-4 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+22 Jun 2021 12:32:55,340 TestNG-tests-4 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+22 Jun 2021 12:32:55,340 TestNG-tests-4 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+22 Jun 2021 12:32:55,340 TestNG-tests-4 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+22 Jun 2021 12:32:55,340 TestNG-tests-4 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+22 Jun 2021 12:32:55,349 TestNG-tests-4 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+22 Jun 2021 12:32:55,352 TestNG-tests-4 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+22 Jun 2021 12:32:55,354 TestNG-tests-4 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+22 Jun 2021 12:32:55,354 TestNG-tests-4 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+22 Jun 2021 12:32:55,354 TestNG-tests-4 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+22 Jun 2021 12:32:55,354 TestNG-tests-4 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+22 Jun 2021 12:32:55,354 TestNG-tests-4 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+22 Jun 2021 12:32:55,371 TestNG-tests-4 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+22 Jun 2021 12:32:55,372 TestNG-tests-4 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+22 Jun 2021 12:32:55,372 TestNG-tests-4 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+22 Jun 2021 12:32:55,372 TestNG-tests-4 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+22 Jun 2021 12:32:55,376 TestNG-tests-4 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+22 Jun 2021 12:32:55,377 TestNG-tests-4 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+22 Jun 2021 12:32:55,377 TestNG-tests-4 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+22 Jun 2021 12:32:55,377 TestNG-tests-4 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+22 Jun 2021 12:32:55,379 TestNG-tests-4 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+22 Jun 2021 12:32:55,379 TestNG-tests-4 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+22 Jun 2021 12:32:55,379 TestNG-tests-4 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+22 Jun 2021 12:32:55,379 TestNG-tests-4 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+22 Jun 2021 12:32:55,382 TestNG-tests-4 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+22 Jun 2021 12:32:55,382 TestNG-tests-4 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+22 Jun 2021 12:32:55,382 TestNG-tests-4 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+22 Jun 2021 12:32:55,382 TestNG-tests-4 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+23 Jun 2021 12:38:45,040 TestNG-tests-1 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 12:38:45,042 TestNG-tests-1 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+23 Jun 2021 12:38:45,058 TestNG-tests-1 - TemplateLoader.findTemplateSource("index.ftl"): Found
+23 Jun 2021 12:38:45,058 TestNG-tests-1 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+23 Jun 2021 12:38:45,489 TestNG-tests-1 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 12:38:45,489 TestNG-tests-1 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+23 Jun 2021 12:38:45,490 TestNG-tests-1 - TemplateLoader.findTemplateSource("head.ftl"): Found
+23 Jun 2021 12:38:45,490 TestNG-tests-1 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+23 Jun 2021 12:38:45,491 TestNG-tests-1 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 12:38:45,492 TestNG-tests-1 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+23 Jun 2021 12:38:45,492 TestNG-tests-1 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+23 Jun 2021 12:38:45,492 TestNG-tests-1 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+23 Jun 2021 12:38:45,504 TestNG-tests-1 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 12:38:45,504 TestNG-tests-1 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+23 Jun 2021 12:38:45,505 TestNG-tests-1 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+23 Jun 2021 12:38:45,505 TestNG-tests-1 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+23 Jun 2021 12:38:45,513 TestNG-tests-1 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 12:38:45,513 TestNG-tests-1 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+23 Jun 2021 12:38:45,513 TestNG-tests-1 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+23 Jun 2021 12:38:45,513 TestNG-tests-1 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+23 Jun 2021 12:38:45,522 TestNG-tests-1 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 12:38:45,522 TestNG-tests-1 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+23 Jun 2021 12:38:45,522 TestNG-tests-1 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+23 Jun 2021 12:38:45,522 TestNG-tests-1 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+23 Jun 2021 12:38:45,536 TestNG-tests-1 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+23 Jun 2021 12:38:45,537 TestNG-tests-1 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+23 Jun 2021 12:38:45,538 TestNG-tests-1 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+23 Jun 2021 12:38:45,543 TestNG-tests-1 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+23 Jun 2021 12:38:45,544 TestNG-tests-1 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+23 Jun 2021 12:38:45,544 TestNG-tests-1 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+23 Jun 2021 12:38:45,545 TestNG-tests-1 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+23 Jun 2021 12:38:45,546 TestNG-tests-1 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 12:38:45,547 TestNG-tests-1 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+23 Jun 2021 12:38:45,547 TestNG-tests-1 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+23 Jun 2021 12:38:45,547 TestNG-tests-1 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+23 Jun 2021 12:38:45,547 TestNG-tests-1 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 12:38:45,547 TestNG-tests-1 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+23 Jun 2021 12:38:45,547 TestNG-tests-1 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+23 Jun 2021 12:38:45,547 TestNG-tests-1 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+23 Jun 2021 12:38:45,547 TestNG-tests-1 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 12:38:45,547 TestNG-tests-1 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+23 Jun 2021 12:38:45,547 TestNG-tests-1 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+23 Jun 2021 12:38:45,547 TestNG-tests-1 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+23 Jun 2021 12:38:45,547 TestNG-tests-1 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 12:38:45,547 TestNG-tests-1 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+23 Jun 2021 12:38:45,547 TestNG-tests-1 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+23 Jun 2021 12:38:45,547 TestNG-tests-1 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+23 Jun 2021 12:38:45,564 TestNG-tests-1 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 12:38:45,565 TestNG-tests-1 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+23 Jun 2021 12:38:45,565 TestNG-tests-1 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+23 Jun 2021 12:38:45,566 TestNG-tests-1 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+23 Jun 2021 12:39:10,108 TestNG-tests-2 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 12:39:10,109 TestNG-tests-2 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+23 Jun 2021 12:39:10,110 TestNG-tests-2 - TemplateLoader.findTemplateSource("index.ftl"): Found
+23 Jun 2021 12:39:10,110 TestNG-tests-2 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+23 Jun 2021 12:39:10,126 TestNG-tests-2 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 12:39:10,127 TestNG-tests-2 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+23 Jun 2021 12:39:10,127 TestNG-tests-2 - TemplateLoader.findTemplateSource("head.ftl"): Found
+23 Jun 2021 12:39:10,128 TestNG-tests-2 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+23 Jun 2021 12:39:10,131 TestNG-tests-2 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 12:39:10,132 TestNG-tests-2 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+23 Jun 2021 12:39:10,132 TestNG-tests-2 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+23 Jun 2021 12:39:10,132 TestNG-tests-2 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+23 Jun 2021 12:39:10,139 TestNG-tests-2 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 12:39:10,140 TestNG-tests-2 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+23 Jun 2021 12:39:10,141 TestNG-tests-2 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+23 Jun 2021 12:39:10,141 TestNG-tests-2 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+23 Jun 2021 12:39:10,152 TestNG-tests-2 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 12:39:10,153 TestNG-tests-2 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+23 Jun 2021 12:39:10,153 TestNG-tests-2 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+23 Jun 2021 12:39:10,153 TestNG-tests-2 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+23 Jun 2021 12:39:10,160 TestNG-tests-2 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 12:39:10,160 TestNG-tests-2 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+23 Jun 2021 12:39:10,161 TestNG-tests-2 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+23 Jun 2021 12:39:10,162 TestNG-tests-2 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+23 Jun 2021 12:39:10,171 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+23 Jun 2021 12:39:10,173 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+23 Jun 2021 12:39:10,174 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+23 Jun 2021 12:39:10,174 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+23 Jun 2021 12:39:10,176 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+23 Jun 2021 12:39:10,177 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+23 Jun 2021 12:39:10,178 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+23 Jun 2021 12:39:10,181 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+23 Jun 2021 12:39:10,184 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+23 Jun 2021 12:39:10,186 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+23 Jun 2021 12:39:10,189 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+23 Jun 2021 12:39:10,190 TestNG-tests-2 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 12:39:10,190 TestNG-tests-2 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+23 Jun 2021 12:39:10,191 TestNG-tests-2 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+23 Jun 2021 12:39:10,191 TestNG-tests-2 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+23 Jun 2021 12:39:10,197 TestNG-tests-2 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 12:39:10,198 TestNG-tests-2 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+23 Jun 2021 12:39:10,198 TestNG-tests-2 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+23 Jun 2021 12:39:10,199 TestNG-tests-2 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+23 Jun 2021 12:39:10,203 TestNG-tests-2 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 12:39:10,205 TestNG-tests-2 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+23 Jun 2021 12:39:10,205 TestNG-tests-2 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+23 Jun 2021 12:39:10,205 TestNG-tests-2 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+23 Jun 2021 12:39:10,208 TestNG-tests-2 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 12:39:10,208 TestNG-tests-2 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+23 Jun 2021 12:39:10,208 TestNG-tests-2 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+23 Jun 2021 12:39:10,208 TestNG-tests-2 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+23 Jun 2021 12:39:10,211 TestNG-tests-2 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 12:39:10,211 TestNG-tests-2 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+23 Jun 2021 12:39:10,211 TestNG-tests-2 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+23 Jun 2021 12:39:10,212 TestNG-tests-2 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+23 Jun 2021 14:54:31,636 TestNG-tests-1 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 14:54:31,638 TestNG-tests-1 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+23 Jun 2021 14:54:31,640 TestNG-tests-1 - TemplateLoader.findTemplateSource("index.ftl"): Found
+23 Jun 2021 14:54:31,640 TestNG-tests-1 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+23 Jun 2021 14:54:32,041 TestNG-tests-1 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 14:54:32,041 TestNG-tests-1 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+23 Jun 2021 14:54:32,042 TestNG-tests-1 - TemplateLoader.findTemplateSource("head.ftl"): Found
+23 Jun 2021 14:54:32,042 TestNG-tests-1 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+23 Jun 2021 14:54:32,045 TestNG-tests-1 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 14:54:32,045 TestNG-tests-1 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+23 Jun 2021 14:54:32,045 TestNG-tests-1 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+23 Jun 2021 14:54:32,045 TestNG-tests-1 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+23 Jun 2021 14:54:32,057 TestNG-tests-1 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 14:54:32,057 TestNG-tests-1 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+23 Jun 2021 14:54:32,057 TestNG-tests-1 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+23 Jun 2021 14:54:32,058 TestNG-tests-1 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+23 Jun 2021 14:54:32,076 TestNG-tests-1 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 14:54:32,077 TestNG-tests-1 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+23 Jun 2021 14:54:32,077 TestNG-tests-1 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+23 Jun 2021 14:54:32,077 TestNG-tests-1 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+23 Jun 2021 14:54:32,099 TestNG-tests-1 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 14:54:32,100 TestNG-tests-1 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+23 Jun 2021 14:54:32,101 TestNG-tests-1 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+23 Jun 2021 14:54:32,107 TestNG-tests-1 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+23 Jun 2021 14:54:32,126 TestNG-tests-1 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+23 Jun 2021 14:54:32,126 TestNG-tests-1 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+23 Jun 2021 14:54:32,253 TestNG-tests-1 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+23 Jun 2021 14:54:32,254 TestNG-tests-1 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+23 Jun 2021 14:54:32,255 TestNG-tests-1 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 14:54:32,255 TestNG-tests-1 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+23 Jun 2021 14:54:32,255 TestNG-tests-1 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+23 Jun 2021 14:54:32,255 TestNG-tests-1 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+23 Jun 2021 14:54:32,260 TestNG-tests-1 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 14:54:32,260 TestNG-tests-1 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+23 Jun 2021 14:54:32,260 TestNG-tests-1 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+23 Jun 2021 14:54:32,260 TestNG-tests-1 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+23 Jun 2021 14:54:32,264 TestNG-tests-1 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 14:54:32,265 TestNG-tests-1 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+23 Jun 2021 14:54:32,265 TestNG-tests-1 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+23 Jun 2021 14:54:32,265 TestNG-tests-1 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+23 Jun 2021 14:54:32,270 TestNG-tests-1 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 14:54:32,272 TestNG-tests-1 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+23 Jun 2021 14:54:32,272 TestNG-tests-1 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+23 Jun 2021 14:54:32,273 TestNG-tests-1 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+23 Jun 2021 14:54:32,279 TestNG-tests-1 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 14:54:32,280 TestNG-tests-1 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+23 Jun 2021 14:54:32,280 TestNG-tests-1 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+23 Jun 2021 14:54:32,280 TestNG-tests-1 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+23 Jun 2021 14:57:27,326 TestNG-tests-2 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 14:57:27,327 TestNG-tests-2 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+23 Jun 2021 14:57:27,328 TestNG-tests-2 - TemplateLoader.findTemplateSource("index.ftl"): Found
+23 Jun 2021 14:57:27,328 TestNG-tests-2 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+23 Jun 2021 14:57:27,341 TestNG-tests-2 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 14:57:27,342 TestNG-tests-2 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+23 Jun 2021 14:57:27,342 TestNG-tests-2 - TemplateLoader.findTemplateSource("head.ftl"): Found
+23 Jun 2021 14:57:27,342 TestNG-tests-2 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+23 Jun 2021 14:57:27,345 TestNG-tests-2 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 14:57:27,345 TestNG-tests-2 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+23 Jun 2021 14:57:27,346 TestNG-tests-2 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+23 Jun 2021 14:57:27,346 TestNG-tests-2 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+23 Jun 2021 14:57:27,353 TestNG-tests-2 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 14:57:27,354 TestNG-tests-2 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+23 Jun 2021 14:57:27,354 TestNG-tests-2 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+23 Jun 2021 14:57:27,354 TestNG-tests-2 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+23 Jun 2021 14:57:27,365 TestNG-tests-2 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 14:57:27,366 TestNG-tests-2 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+23 Jun 2021 14:57:27,368 TestNG-tests-2 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+23 Jun 2021 14:57:27,368 TestNG-tests-2 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+23 Jun 2021 14:57:27,376 TestNG-tests-2 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 14:57:27,376 TestNG-tests-2 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+23 Jun 2021 14:57:27,377 TestNG-tests-2 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+23 Jun 2021 14:57:27,377 TestNG-tests-2 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+23 Jun 2021 14:57:27,384 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+23 Jun 2021 14:57:27,385 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+23 Jun 2021 14:57:27,386 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+23 Jun 2021 14:57:27,387 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+23 Jun 2021 14:57:27,388 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+23 Jun 2021 14:57:27,388 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+23 Jun 2021 14:57:27,389 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+23 Jun 2021 14:57:27,389 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+23 Jun 2021 14:57:27,390 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+23 Jun 2021 14:57:27,390 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+23 Jun 2021 14:57:27,391 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+23 Jun 2021 14:57:27,392 TestNG-tests-2 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 14:57:27,392 TestNG-tests-2 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+23 Jun 2021 14:57:27,393 TestNG-tests-2 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+23 Jun 2021 14:57:27,393 TestNG-tests-2 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+23 Jun 2021 14:57:27,397 TestNG-tests-2 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 14:57:27,398 TestNG-tests-2 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+23 Jun 2021 14:57:27,398 TestNG-tests-2 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+23 Jun 2021 14:57:27,398 TestNG-tests-2 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+23 Jun 2021 14:57:27,402 TestNG-tests-2 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 14:57:27,403 TestNG-tests-2 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+23 Jun 2021 14:57:27,403 TestNG-tests-2 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+23 Jun 2021 14:57:27,403 TestNG-tests-2 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+23 Jun 2021 14:57:27,405 TestNG-tests-2 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 14:57:27,405 TestNG-tests-2 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+23 Jun 2021 14:57:27,406 TestNG-tests-2 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+23 Jun 2021 14:57:27,406 TestNG-tests-2 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+23 Jun 2021 14:57:27,409 TestNG-tests-2 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 14:57:27,410 TestNG-tests-2 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+23 Jun 2021 14:57:27,410 TestNG-tests-2 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+23 Jun 2021 14:57:27,410 TestNG-tests-2 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+23 Jun 2021 15:27:34,846 TestNG-tests-1 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 15:27:34,848 TestNG-tests-1 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+23 Jun 2021 15:27:34,852 TestNG-tests-1 - TemplateLoader.findTemplateSource("index.ftl"): Found
+23 Jun 2021 15:27:34,852 TestNG-tests-1 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+23 Jun 2021 15:27:35,132 TestNG-tests-1 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 15:27:35,132 TestNG-tests-1 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+23 Jun 2021 15:27:35,133 TestNG-tests-1 - TemplateLoader.findTemplateSource("head.ftl"): Found
+23 Jun 2021 15:27:35,133 TestNG-tests-1 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+23 Jun 2021 15:27:35,134 TestNG-tests-1 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 15:27:35,134 TestNG-tests-1 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+23 Jun 2021 15:27:35,135 TestNG-tests-1 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+23 Jun 2021 15:27:35,135 TestNG-tests-1 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+23 Jun 2021 15:27:35,140 TestNG-tests-1 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 15:27:35,141 TestNG-tests-1 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+23 Jun 2021 15:27:35,141 TestNG-tests-1 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+23 Jun 2021 15:27:35,141 TestNG-tests-1 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+23 Jun 2021 15:27:35,148 TestNG-tests-1 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 15:27:35,149 TestNG-tests-1 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+23 Jun 2021 15:27:35,149 TestNG-tests-1 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+23 Jun 2021 15:27:35,149 TestNG-tests-1 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+23 Jun 2021 15:27:35,161 TestNG-tests-1 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 15:27:35,161 TestNG-tests-1 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+23 Jun 2021 15:27:35,162 TestNG-tests-1 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+23 Jun 2021 15:27:35,162 TestNG-tests-1 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+23 Jun 2021 15:27:35,178 TestNG-tests-1 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+23 Jun 2021 15:27:35,178 TestNG-tests-1 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+23 Jun 2021 15:27:35,179 TestNG-tests-1 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+23 Jun 2021 15:27:35,180 TestNG-tests-1 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+23 Jun 2021 15:27:35,180 TestNG-tests-1 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 15:27:35,180 TestNG-tests-1 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+23 Jun 2021 15:27:35,180 TestNG-tests-1 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+23 Jun 2021 15:27:35,180 TestNG-tests-1 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+23 Jun 2021 15:27:35,184 TestNG-tests-1 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 15:27:35,185 TestNG-tests-1 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+23 Jun 2021 15:27:35,185 TestNG-tests-1 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+23 Jun 2021 15:27:35,185 TestNG-tests-1 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+23 Jun 2021 15:27:35,187 TestNG-tests-1 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 15:27:35,187 TestNG-tests-1 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+23 Jun 2021 15:27:35,187 TestNG-tests-1 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+23 Jun 2021 15:27:35,187 TestNG-tests-1 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+23 Jun 2021 15:27:35,189 TestNG-tests-1 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 15:27:35,190 TestNG-tests-1 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+23 Jun 2021 15:27:35,190 TestNG-tests-1 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+23 Jun 2021 15:27:35,190 TestNG-tests-1 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+23 Jun 2021 15:27:35,193 TestNG-tests-1 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 15:27:35,194 TestNG-tests-1 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+23 Jun 2021 15:27:35,194 TestNG-tests-1 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+23 Jun 2021 15:27:35,194 TestNG-tests-1 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+23 Jun 2021 15:28:01,843 TestNG-tests-2 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 15:28:01,845 TestNG-tests-2 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+23 Jun 2021 15:28:01,845 TestNG-tests-2 - TemplateLoader.findTemplateSource("index.ftl"): Found
+23 Jun 2021 15:28:01,846 TestNG-tests-2 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+23 Jun 2021 15:28:01,858 TestNG-tests-2 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 15:28:01,859 TestNG-tests-2 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+23 Jun 2021 15:28:01,859 TestNG-tests-2 - TemplateLoader.findTemplateSource("head.ftl"): Found
+23 Jun 2021 15:28:01,859 TestNG-tests-2 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+23 Jun 2021 15:28:01,862 TestNG-tests-2 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 15:28:01,862 TestNG-tests-2 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+23 Jun 2021 15:28:01,862 TestNG-tests-2 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+23 Jun 2021 15:28:01,862 TestNG-tests-2 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+23 Jun 2021 15:28:01,865 TestNG-tests-2 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 15:28:01,867 TestNG-tests-2 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+23 Jun 2021 15:28:01,869 TestNG-tests-2 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+23 Jun 2021 15:28:01,869 TestNG-tests-2 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+23 Jun 2021 15:28:01,878 TestNG-tests-2 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 15:28:01,878 TestNG-tests-2 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+23 Jun 2021 15:28:01,879 TestNG-tests-2 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+23 Jun 2021 15:28:01,879 TestNG-tests-2 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+23 Jun 2021 15:28:01,889 TestNG-tests-2 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 15:28:01,890 TestNG-tests-2 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+23 Jun 2021 15:28:01,890 TestNG-tests-2 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+23 Jun 2021 15:28:01,891 TestNG-tests-2 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+23 Jun 2021 15:28:01,899 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+23 Jun 2021 15:28:01,903 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+23 Jun 2021 15:28:01,906 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+23 Jun 2021 15:28:01,908 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+23 Jun 2021 15:28:01,908 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+23 Jun 2021 15:28:01,909 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+23 Jun 2021 15:28:01,910 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+23 Jun 2021 15:28:01,911 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+23 Jun 2021 15:28:01,911 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+23 Jun 2021 15:28:01,913 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+23 Jun 2021 15:28:02,070 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+23 Jun 2021 15:28:02,071 TestNG-tests-2 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 15:28:02,072 TestNG-tests-2 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+23 Jun 2021 15:28:02,072 TestNG-tests-2 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+23 Jun 2021 15:28:02,072 TestNG-tests-2 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+23 Jun 2021 15:28:02,084 TestNG-tests-2 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 15:28:02,084 TestNG-tests-2 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+23 Jun 2021 15:28:02,084 TestNG-tests-2 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+23 Jun 2021 15:28:02,084 TestNG-tests-2 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+23 Jun 2021 15:28:02,087 TestNG-tests-2 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 15:28:02,087 TestNG-tests-2 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+23 Jun 2021 15:28:02,087 TestNG-tests-2 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+23 Jun 2021 15:28:02,087 TestNG-tests-2 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+23 Jun 2021 15:28:02,090 TestNG-tests-2 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 15:28:02,090 TestNG-tests-2 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+23 Jun 2021 15:28:02,091 TestNG-tests-2 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+23 Jun 2021 15:28:02,091 TestNG-tests-2 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+23 Jun 2021 15:28:02,094 TestNG-tests-2 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 15:28:02,094 TestNG-tests-2 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+23 Jun 2021 15:28:02,094 TestNG-tests-2 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+23 Jun 2021 15:28:02,094 TestNG-tests-2 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+23 Jun 2021 20:58:41,598 TestNG-tests-2 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 20:58:41,600 TestNG-tests-2 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+23 Jun 2021 20:58:41,602 TestNG-tests-2 - TemplateLoader.findTemplateSource("index.ftl"): Found
+23 Jun 2021 20:58:41,603 TestNG-tests-2 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+23 Jun 2021 20:58:41,896 TestNG-tests-2 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 20:58:41,896 TestNG-tests-2 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+23 Jun 2021 20:58:41,896 TestNG-tests-2 - TemplateLoader.findTemplateSource("head.ftl"): Found
+23 Jun 2021 20:58:41,896 TestNG-tests-2 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+23 Jun 2021 20:58:41,899 TestNG-tests-2 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 20:58:41,899 TestNG-tests-2 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+23 Jun 2021 20:58:41,899 TestNG-tests-2 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+23 Jun 2021 20:58:41,899 TestNG-tests-2 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+23 Jun 2021 20:58:41,906 TestNG-tests-2 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 20:58:41,906 TestNG-tests-2 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+23 Jun 2021 20:58:41,907 TestNG-tests-2 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+23 Jun 2021 20:58:41,907 TestNG-tests-2 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+23 Jun 2021 20:58:41,916 TestNG-tests-2 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 20:58:41,916 TestNG-tests-2 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+23 Jun 2021 20:58:41,916 TestNG-tests-2 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+23 Jun 2021 20:58:41,916 TestNG-tests-2 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+23 Jun 2021 20:58:41,925 TestNG-tests-2 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 20:58:41,926 TestNG-tests-2 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+23 Jun 2021 20:58:41,926 TestNG-tests-2 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+23 Jun 2021 20:58:41,926 TestNG-tests-2 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+23 Jun 2021 20:58:41,935 TestNG-tests-2 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 20:58:41,935 TestNG-tests-2 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+23 Jun 2021 20:58:41,936 TestNG-tests-2 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+23 Jun 2021 20:58:41,936 TestNG-tests-2 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+23 Jun 2021 20:58:41,938 TestNG-tests-2 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 20:58:41,939 TestNG-tests-2 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+23 Jun 2021 20:58:41,939 TestNG-tests-2 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+23 Jun 2021 20:58:41,939 TestNG-tests-2 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+23 Jun 2021 20:58:41,941 TestNG-tests-2 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 20:58:41,942 TestNG-tests-2 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+23 Jun 2021 20:58:41,942 TestNG-tests-2 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+23 Jun 2021 20:58:41,942 TestNG-tests-2 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+23 Jun 2021 20:58:41,944 TestNG-tests-2 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 20:58:41,945 TestNG-tests-2 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+23 Jun 2021 20:58:41,945 TestNG-tests-2 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+23 Jun 2021 20:58:41,945 TestNG-tests-2 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+23 Jun 2021 20:58:41,949 TestNG-tests-2 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 20:58:41,950 TestNG-tests-2 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+23 Jun 2021 20:58:41,950 TestNG-tests-2 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+23 Jun 2021 20:58:41,950 TestNG-tests-2 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+23 Jun 2021 20:58:44,837 TestNG-tests-1 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 20:58:44,837 TestNG-tests-1 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+23 Jun 2021 20:58:44,838 TestNG-tests-1 - TemplateLoader.findTemplateSource("index.ftl"): Found
+23 Jun 2021 20:58:44,838 TestNG-tests-1 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+23 Jun 2021 20:58:44,843 TestNG-tests-1 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 20:58:44,844 TestNG-tests-1 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+23 Jun 2021 20:58:44,844 TestNG-tests-1 - TemplateLoader.findTemplateSource("head.ftl"): Found
+23 Jun 2021 20:58:44,844 TestNG-tests-1 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+23 Jun 2021 20:58:44,845 TestNG-tests-1 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 20:58:44,845 TestNG-tests-1 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+23 Jun 2021 20:58:44,845 TestNG-tests-1 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+23 Jun 2021 20:58:44,846 TestNG-tests-1 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+23 Jun 2021 20:58:44,848 TestNG-tests-1 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 20:58:44,848 TestNG-tests-1 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+23 Jun 2021 20:58:44,848 TestNG-tests-1 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+23 Jun 2021 20:58:44,848 TestNG-tests-1 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+23 Jun 2021 20:58:44,853 TestNG-tests-1 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 20:58:44,853 TestNG-tests-1 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+23 Jun 2021 20:58:44,853 TestNG-tests-1 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+23 Jun 2021 20:58:44,853 TestNG-tests-1 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+23 Jun 2021 20:58:44,859 TestNG-tests-1 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 20:58:44,859 TestNG-tests-1 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+23 Jun 2021 20:58:44,859 TestNG-tests-1 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+23 Jun 2021 20:58:44,859 TestNG-tests-1 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+23 Jun 2021 20:58:44,862 TestNG-tests-1 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 20:58:44,863 TestNG-tests-1 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+23 Jun 2021 20:58:44,863 TestNG-tests-1 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+23 Jun 2021 20:58:44,863 TestNG-tests-1 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+23 Jun 2021 20:58:44,875 TestNG-tests-1 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 20:58:44,875 TestNG-tests-1 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+23 Jun 2021 20:58:44,875 TestNG-tests-1 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+23 Jun 2021 20:58:44,875 TestNG-tests-1 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+23 Jun 2021 20:58:44,878 TestNG-tests-1 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 20:58:44,878 TestNG-tests-1 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+23 Jun 2021 20:58:44,879 TestNG-tests-1 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+23 Jun 2021 20:58:44,879 TestNG-tests-1 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+23 Jun 2021 20:58:44,881 TestNG-tests-1 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 20:58:44,881 TestNG-tests-1 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+23 Jun 2021 20:58:44,881 TestNG-tests-1 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+23 Jun 2021 20:58:44,881 TestNG-tests-1 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+23 Jun 2021 20:58:44,886 TestNG-tests-1 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+23 Jun 2021 20:58:44,886 TestNG-tests-1 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+23 Jun 2021 20:58:44,886 TestNG-tests-1 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+23 Jun 2021 20:58:44,886 TestNG-tests-1 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+24 Jun 2021 11:33:35,454 TestNG-tests-2 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+24 Jun 2021 11:33:35,458 TestNG-tests-2 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+24 Jun 2021 11:33:35,463 TestNG-tests-2 - TemplateLoader.findTemplateSource("index.ftl"): Found
+24 Jun 2021 11:33:35,464 TestNG-tests-2 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+24 Jun 2021 11:33:36,559 TestNG-tests-2 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+24 Jun 2021 11:33:36,559 TestNG-tests-2 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+24 Jun 2021 11:33:36,560 TestNG-tests-2 - TemplateLoader.findTemplateSource("head.ftl"): Found
+24 Jun 2021 11:33:36,560 TestNG-tests-2 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+24 Jun 2021 11:33:36,567 TestNG-tests-2 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+24 Jun 2021 11:33:36,568 TestNG-tests-2 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+24 Jun 2021 11:33:36,569 TestNG-tests-2 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+24 Jun 2021 11:33:36,569 TestNG-tests-2 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+24 Jun 2021 11:33:36,595 TestNG-tests-2 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+24 Jun 2021 11:33:36,595 TestNG-tests-2 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+24 Jun 2021 11:33:36,596 TestNG-tests-2 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+24 Jun 2021 11:33:36,596 TestNG-tests-2 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+24 Jun 2021 11:33:36,625 TestNG-tests-2 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+24 Jun 2021 11:33:36,626 TestNG-tests-2 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+24 Jun 2021 11:33:36,626 TestNG-tests-2 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+24 Jun 2021 11:33:36,626 TestNG-tests-2 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+24 Jun 2021 11:33:36,653 TestNG-tests-2 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+24 Jun 2021 11:33:36,653 TestNG-tests-2 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+24 Jun 2021 11:33:36,654 TestNG-tests-2 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+24 Jun 2021 11:33:36,654 TestNG-tests-2 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+24 Jun 2021 11:33:36,700 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+24 Jun 2021 11:33:36,702 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+24 Jun 2021 11:33:36,703 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+24 Jun 2021 11:33:36,706 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+24 Jun 2021 11:33:36,707 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+24 Jun 2021 11:33:36,709 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+24 Jun 2021 11:33:36,711 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+24 Jun 2021 11:33:36,715 TestNG-tests-2 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+24 Jun 2021 11:33:36,716 TestNG-tests-2 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+24 Jun 2021 11:33:36,716 TestNG-tests-2 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+24 Jun 2021 11:33:36,716 TestNG-tests-2 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+24 Jun 2021 11:33:36,733 TestNG-tests-2 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+24 Jun 2021 11:33:36,734 TestNG-tests-2 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+24 Jun 2021 11:33:36,735 TestNG-tests-2 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+24 Jun 2021 11:33:36,735 TestNG-tests-2 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+24 Jun 2021 11:33:36,744 TestNG-tests-2 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+24 Jun 2021 11:33:36,746 TestNG-tests-2 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+24 Jun 2021 11:33:36,746 TestNG-tests-2 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+24 Jun 2021 11:33:36,746 TestNG-tests-2 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+24 Jun 2021 11:33:36,753 TestNG-tests-2 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+24 Jun 2021 11:33:36,754 TestNG-tests-2 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+24 Jun 2021 11:33:36,755 TestNG-tests-2 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+24 Jun 2021 11:33:36,755 TestNG-tests-2 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+24 Jun 2021 11:33:36,766 TestNG-tests-2 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+24 Jun 2021 11:33:36,766 TestNG-tests-2 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+24 Jun 2021 11:33:36,767 TestNG-tests-2 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+24 Jun 2021 11:33:36,767 TestNG-tests-2 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+24 Jun 2021 11:38:16,494 TestNG-tests-1 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+24 Jun 2021 11:38:16,496 TestNG-tests-1 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+24 Jun 2021 11:38:16,500 TestNG-tests-1 - TemplateLoader.findTemplateSource("index.ftl"): Found
+24 Jun 2021 11:38:16,500 TestNG-tests-1 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+24 Jun 2021 11:38:17,099 TestNG-tests-1 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+24 Jun 2021 11:38:17,100 TestNG-tests-1 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+24 Jun 2021 11:38:17,100 TestNG-tests-1 - TemplateLoader.findTemplateSource("head.ftl"): Found
+24 Jun 2021 11:38:17,100 TestNG-tests-1 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+24 Jun 2021 11:38:17,105 TestNG-tests-1 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+24 Jun 2021 11:38:17,105 TestNG-tests-1 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+24 Jun 2021 11:38:17,106 TestNG-tests-1 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+24 Jun 2021 11:38:17,106 TestNG-tests-1 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+24 Jun 2021 11:38:17,123 TestNG-tests-1 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+24 Jun 2021 11:38:17,124 TestNG-tests-1 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+24 Jun 2021 11:38:17,125 TestNG-tests-1 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+24 Jun 2021 11:38:17,125 TestNG-tests-1 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+24 Jun 2021 11:38:17,153 TestNG-tests-1 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+24 Jun 2021 11:38:17,154 TestNG-tests-1 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+24 Jun 2021 11:38:17,154 TestNG-tests-1 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+24 Jun 2021 11:38:17,154 TestNG-tests-1 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+24 Jun 2021 11:38:17,181 TestNG-tests-1 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+24 Jun 2021 11:38:17,182 TestNG-tests-1 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+24 Jun 2021 11:38:17,182 TestNG-tests-1 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+24 Jun 2021 11:38:17,183 TestNG-tests-1 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+24 Jun 2021 11:38:17,247 TestNG-tests-1 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+24 Jun 2021 11:38:17,249 TestNG-tests-1 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+24 Jun 2021 11:38:17,251 TestNG-tests-1 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+24 Jun 2021 11:38:17,253 TestNG-tests-1 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+24 Jun 2021 11:38:17,253 TestNG-tests-1 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+24 Jun 2021 11:38:17,254 TestNG-tests-1 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+24 Jun 2021 11:38:17,254 TestNG-tests-1 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+24 Jun 2021 11:38:17,262 TestNG-tests-1 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+24 Jun 2021 11:38:17,263 TestNG-tests-1 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+24 Jun 2021 11:38:17,264 TestNG-tests-1 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+24 Jun 2021 11:38:17,264 TestNG-tests-1 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+24 Jun 2021 11:38:17,271 TestNG-tests-1 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+24 Jun 2021 11:38:17,272 TestNG-tests-1 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+24 Jun 2021 11:38:17,272 TestNG-tests-1 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+24 Jun 2021 11:38:17,272 TestNG-tests-1 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+24 Jun 2021 11:38:17,277 TestNG-tests-1 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+24 Jun 2021 11:38:17,278 TestNG-tests-1 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+24 Jun 2021 11:38:17,278 TestNG-tests-1 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+24 Jun 2021 11:38:17,278 TestNG-tests-1 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+24 Jun 2021 11:38:17,286 TestNG-tests-1 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+24 Jun 2021 11:38:17,286 TestNG-tests-1 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+24 Jun 2021 11:38:17,287 TestNG-tests-1 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+24 Jun 2021 11:38:17,287 TestNG-tests-1 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+24 Jun 2021 11:38:55,073 TestNG-tests-2 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+24 Jun 2021 11:38:55,073 TestNG-tests-2 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+24 Jun 2021 11:38:55,074 TestNG-tests-2 - TemplateLoader.findTemplateSource("index.ftl"): Found
+24 Jun 2021 11:38:55,074 TestNG-tests-2 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+24 Jun 2021 11:38:55,086 TestNG-tests-2 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+24 Jun 2021 11:38:55,087 TestNG-tests-2 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+24 Jun 2021 11:38:55,087 TestNG-tests-2 - TemplateLoader.findTemplateSource("head.ftl"): Found
+24 Jun 2021 11:38:55,087 TestNG-tests-2 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+24 Jun 2021 11:38:55,092 TestNG-tests-2 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+24 Jun 2021 11:38:55,092 TestNG-tests-2 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+24 Jun 2021 11:38:55,092 TestNG-tests-2 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+24 Jun 2021 11:38:55,092 TestNG-tests-2 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+24 Jun 2021 11:38:55,097 TestNG-tests-2 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+24 Jun 2021 11:38:55,098 TestNG-tests-2 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+24 Jun 2021 11:38:55,098 TestNG-tests-2 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+24 Jun 2021 11:38:55,098 TestNG-tests-2 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+24 Jun 2021 11:38:55,105 TestNG-tests-2 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+24 Jun 2021 11:38:55,105 TestNG-tests-2 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+24 Jun 2021 11:38:55,106 TestNG-tests-2 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+24 Jun 2021 11:38:55,106 TestNG-tests-2 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+24 Jun 2021 11:38:55,112 TestNG-tests-2 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+24 Jun 2021 11:38:55,113 TestNG-tests-2 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+24 Jun 2021 11:38:55,113 TestNG-tests-2 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+24 Jun 2021 11:38:55,113 TestNG-tests-2 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+24 Jun 2021 11:38:55,118 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+24 Jun 2021 11:38:55,119 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+24 Jun 2021 11:38:55,120 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+24 Jun 2021 11:38:55,122 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+24 Jun 2021 11:38:55,123 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+24 Jun 2021 11:38:55,123 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+24 Jun 2021 11:38:55,124 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+24 Jun 2021 11:38:55,125 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+24 Jun 2021 11:38:55,127 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+24 Jun 2021 11:38:55,128 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+24 Jun 2021 11:38:55,130 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+24 Jun 2021 11:38:55,131 TestNG-tests-2 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+24 Jun 2021 11:38:55,132 TestNG-tests-2 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+24 Jun 2021 11:38:55,132 TestNG-tests-2 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+24 Jun 2021 11:38:55,132 TestNG-tests-2 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+24 Jun 2021 11:38:55,136 TestNG-tests-2 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+24 Jun 2021 11:38:55,136 TestNG-tests-2 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+24 Jun 2021 11:38:55,137 TestNG-tests-2 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+24 Jun 2021 11:38:55,137 TestNG-tests-2 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+24 Jun 2021 11:38:55,140 TestNG-tests-2 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+24 Jun 2021 11:38:55,141 TestNG-tests-2 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+24 Jun 2021 11:38:55,141 TestNG-tests-2 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+24 Jun 2021 11:38:55,141 TestNG-tests-2 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+24 Jun 2021 11:38:55,144 TestNG-tests-2 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+24 Jun 2021 11:38:55,144 TestNG-tests-2 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+24 Jun 2021 11:38:55,144 TestNG-tests-2 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+24 Jun 2021 11:38:55,145 TestNG-tests-2 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+24 Jun 2021 11:38:55,148 TestNG-tests-2 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+24 Jun 2021 11:38:55,149 TestNG-tests-2 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+24 Jun 2021 11:38:55,150 TestNG-tests-2 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+24 Jun 2021 11:38:55,150 TestNG-tests-2 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+24 Jun 2021 11:40:31,775 TestNG-tests-2 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+24 Jun 2021 11:40:31,780 TestNG-tests-2 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+24 Jun 2021 11:40:31,789 TestNG-tests-2 - TemplateLoader.findTemplateSource("index.ftl"): Found
+24 Jun 2021 11:40:31,789 TestNG-tests-2 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+24 Jun 2021 11:40:32,492 TestNG-tests-2 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+24 Jun 2021 11:40:32,493 TestNG-tests-2 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+24 Jun 2021 11:40:32,493 TestNG-tests-2 - TemplateLoader.findTemplateSource("head.ftl"): Found
+24 Jun 2021 11:40:32,494 TestNG-tests-2 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+24 Jun 2021 11:40:32,499 TestNG-tests-2 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+24 Jun 2021 11:40:32,500 TestNG-tests-2 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+24 Jun 2021 11:40:32,502 TestNG-tests-2 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+24 Jun 2021 11:40:32,503 TestNG-tests-2 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+24 Jun 2021 11:40:32,523 TestNG-tests-2 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+24 Jun 2021 11:40:32,523 TestNG-tests-2 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+24 Jun 2021 11:40:32,524 TestNG-tests-2 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+24 Jun 2021 11:40:32,524 TestNG-tests-2 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+24 Jun 2021 11:40:32,554 TestNG-tests-2 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+24 Jun 2021 11:40:32,555 TestNG-tests-2 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+24 Jun 2021 11:40:32,556 TestNG-tests-2 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+24 Jun 2021 11:40:32,556 TestNG-tests-2 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+24 Jun 2021 11:40:32,577 TestNG-tests-2 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+24 Jun 2021 11:40:32,577 TestNG-tests-2 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+24 Jun 2021 11:40:32,578 TestNG-tests-2 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+24 Jun 2021 11:40:32,578 TestNG-tests-2 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+24 Jun 2021 11:40:32,844 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+24 Jun 2021 11:40:32,845 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+24 Jun 2021 11:40:32,846 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+24 Jun 2021 11:40:32,849 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+24 Jun 2021 11:40:32,850 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+24 Jun 2021 11:40:32,851 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+24 Jun 2021 11:40:32,852 TestNG-tests-2 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+24 Jun 2021 11:40:32,856 TestNG-tests-2 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+24 Jun 2021 11:40:32,857 TestNG-tests-2 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+24 Jun 2021 11:40:32,858 TestNG-tests-2 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+24 Jun 2021 11:40:32,858 TestNG-tests-2 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+24 Jun 2021 11:40:32,869 TestNG-tests-2 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+24 Jun 2021 11:40:32,870 TestNG-tests-2 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+24 Jun 2021 11:40:32,871 TestNG-tests-2 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+24 Jun 2021 11:40:32,871 TestNG-tests-2 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+24 Jun 2021 11:40:32,877 TestNG-tests-2 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+24 Jun 2021 11:40:32,878 TestNG-tests-2 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+24 Jun 2021 11:40:32,878 TestNG-tests-2 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+24 Jun 2021 11:40:32,878 TestNG-tests-2 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+24 Jun 2021 11:40:32,892 TestNG-tests-2 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+24 Jun 2021 11:40:32,892 TestNG-tests-2 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+24 Jun 2021 11:40:32,893 TestNG-tests-2 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+24 Jun 2021 11:40:32,893 TestNG-tests-2 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+24 Jun 2021 11:40:32,905 TestNG-tests-2 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+24 Jun 2021 11:40:32,906 TestNG-tests-2 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+24 Jun 2021 11:40:32,907 TestNG-tests-2 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+24 Jun 2021 11:40:32,907 TestNG-tests-2 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/ofaru/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
